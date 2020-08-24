@@ -1,5 +1,4 @@
 # Rocksmith-DLC
-This a Rocksmith CDLC Repo
 
 # About
 These songs are custom made from various open source tabs and audio, none of these are for commercial use.  I only use high quality audio and 4+ Star Tabs. Look for the official BANDWICHES seal!
