@@ -1,5 +1,10 @@
 # Rocksmith-DLC
 
+# UPDATE 8/29/2020
+This repo is basically going to become the hub for any updates on current projects as well as bug tracking and what not.  I'm re-hosting all my CDLC on Google Drive with individual links - per CustomsForge policy - so that way I don't ruffle any feathers.  You can still "subscribe" to this repo (I guess) if you want to know if I'm still active or not.  It'll be a pretty good indicator.  Anyways, once I have the last of my CDLC updated on drive, I'll be removing the individual releases.  Sorry!
+
+- BANDWICHES
+
 # About
 These songs are custom made from various open source tabs and audio, none of these are for commercial use.  I only use high quality audio and 4+ Star Tabs. Look for the official BANDWICHES seal!
 
