@@ -13,40 +13,43 @@ All songs are built using "The Smashing Pumpkins - Cherub Rock" song id.
 
 # Quality Assurance
 These are the features that I focus on
-- Beat Tracking
+- Beat
 - Tuning
 - Arrangements
 - Testing
 - Lack of Support
 
 ### Beat Tracking
-- Most of my time is spent lining up the real BPM with the recorded BPM's
+- Most of my time is spent lining up the written music with the recording
 - I am a drummer first so this is very important for me
 
 ### Tuning
- - I normally rely on the Tab to provide tuning
- - If tuning does not function properly in RS, I will adjust it with research
+ - Being in tune is important
 
 ### Arrangements
- - I don't like to half-ass anything so you'll get the full arrangement for every song
+ - I don't like to half-ass anything so you'll get the full arrangement for every song (Guitars, Bass, Vocals)
  - Guitar
   - Lead & Rhythm (if applicable) are always provided
   - Additional guitar parts will be added if they play a significant role
  - Bass
-  - Bass is provided however the ability to play with a guitar may not
+  - Bass is provided however the ability to play with a guitar may or may not be tested
+ - Finger Positions
+  - These are to the best of my ability
  - Vox
-  - Vocals are always included
-  - Vocal timing is best effort
+  - Vocals are always included, but lower revisions are much more "best effort"
+  - I don't really focus on sustaining lyrics so much as the timing of the words & syllables
+  - Vocals are improved on almost every revision
  - Keyboard
-  - RS doesn't support keyboards so neither do I (at this time)
+  - RS doesn't support keyboards so neither do I
 
 ### Testing
-- All songs are personally tested to make sure at least 98% of the songs plays and feels correctly
+- All songs are personally tested to make sure it feels and plays accurately
  - This is subject to my personal opinion
 
 ### Lack of Support
 These features are included but not supported (best effort).
 
 - Dynamic Difficulty
-- Finger Positions
+  - This is automatically applied and I leave it as default
 - Tones
+ - I am new to guitar so I have not quite learned how to build tones yet, eventually though.
