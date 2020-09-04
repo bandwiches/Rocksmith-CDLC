@@ -2,7 +2,7 @@
 name: Song Request
 about: What song would you like?
 title: New Song Request
-labels: new issue
+labels: new song request
 assignees: bandwiches
 
 ---

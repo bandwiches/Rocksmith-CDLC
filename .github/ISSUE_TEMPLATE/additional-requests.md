@@ -2,7 +2,7 @@
 name: Additional Requests
 about: Think a song could be better?
 title: I think this could be better...
-labels: new issue
+labels: new additional request
 assignees: bandwiches
 
 ---
